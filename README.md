@@ -1,6 +1,6 @@
 # supply-chain-routing-engine
 
-A high-performance graph processing engine designed to solve dynamic routing problems under real-time network constraints. Built with zero dependencies in standard C99, it features fixed memory allocation profiles and cross-compiles directly to WebAssembly for browser-based canvas visualisations.
+A high-performance graph processing engine designed to solve dynamic routing problems under real-time network constraints. Built with zero dependencies in standard C99, it features fixed memory allocation profiles and cross-compiles directly to WebAssembly for browser-based canvas visualizations, and includes a real time visual interface.
 
 ## Highlights
 
