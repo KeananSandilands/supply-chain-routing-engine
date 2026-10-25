@@ -13,9 +13,9 @@ A zero-dependency C99 routing engine built to simulate multi-constraint pathfind
 
 ```bash
 # Clone repository
-git clone [https://github.com/YOUR_USERNAME/supply-chain-routing-engine.git](https://github.com/YOUR_USERNAME/supply-chain-routing-engine.git)
+git clone [https://github.com/KeananSandilands/supply-chain-routing-engine.git](https://github.com/KeananSandilands/supply-chain-routing-engine.git)
 cd supply-chain-routing-engine
 
 # Build and run
-clang -std=c99 -O3 -Wall -Wextra src/*.c -o bin/routing_engine
-./bin/routing_engine
+clang -std=c99 -O3 -Wall -Wextra main.c -o supply_sim
+./supply_sim
